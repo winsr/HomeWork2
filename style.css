@@ -1,0 +1,60 @@
+h4 {
+  font-family: "Heebo", sans-serif;
+  color: #a3a0a0;
+}
+h5 {
+  font-family: "Inter", sans-serif;
+  color: #136223;
+}
+.container1,
+.container3 {
+  margin-left: 146px;
+  margin-right: 146px;
+  font-family: "Heebo", sans-serif;
+}
+.container1 {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.container1 img {
+  height: 250px;
+  width: 250px;
+  margin-left: 50px;
+  box-shadow: -10px 10px 5px 0px #edf7fa;
+}
+.container2 {
+  background-color: #edf7fa;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.container2 .col {
+  margin-left: 146px;
+}
+.project {
+  border-bottom: 1px solid #858383;
+  padding-bottom: 20px;
+}
+.container3 img {
+  border-radius: 5%;
+  width: 246px;
+  height: 180px;
+}
+
+.container4 {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  padding: 60px;
+}
+.container4 img {
+  width: 40px;
+  height: 40px;
+  margin: 10px;
+}
+.footer {
+  display: flex;
+  justify-content: center;
+}
+.list-unstyled {
+  font-size: small;
+}
